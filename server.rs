@@ -1,5 +1,4 @@
-//
-//@author Bayek
+
 //@dev server用于监听
 //
 use std::net::{TcpListener, TcpStream}; 
